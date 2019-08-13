@@ -1,12 +1,30 @@
-[1.9-] [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/1.9-.zip)
+**A Minecraft Resource Pack of Funny Expressions**
 
-[1.19-1.10.2] [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/1.9-1.10.2.zip)
+**一个有趣的MC表情材质包**
 
-[1.11-1.12.2] [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/1.11-1.12.2.zip)
+-----
 
-[1.13-1.14.4] [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/master.zip)
+# 使用方法
 
-------
+下载对应版本后请将本材质放入`Minecraft资源包目录`并启用。
+
+服主可以下载后将其设置为服务器资源包。
+
+启用资源包后在聊天栏输入对应表情即可显示。
+
+
+
+# 下载链接
+
+`1.9 以下` [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/1.8.zip)
+
+`1.9-1.10.2` [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/1.9-1.10.2.zip)
+
+`1.11-1.12.2` [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/1.11-1.12.2.zip)
+
+`1.13-1.14.4` [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/master.zip)
+
+
 
 # 表情转换字符表
 
@@ -41,9 +59,9 @@
 
 ## 百度贴吧泡泡
 
-![img](https://tb2.bdstatic.com/tb/editor/images/face/i_f16.png?t=20140803)阴险：`鴀`
+![img](https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803)滑稽：`鴀`
 
-![img](https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803)滑稽：`鴁`
+![img](https://tb2.bdstatic.com/tb/editor/images/face/i_f16.png?t=20140803)阴险：`鴁`
 
 ![img](https://tb2.bdstatic.com/tb/editor/images/face/i_f33.png?t=20140803)喷：`鴂`
 
@@ -74,3 +92,10 @@
 透明渐变彩虹：`輁輂較輄輅輆輇輈載輊輋輌輍輎輏`
 
 [纸鹿君 Zhilu.fun](Zhilu.fun)：`鴅鴆鴇鴈鴉鴊`
+
+
+
+----
+
+[![HitCount](http://hits.dwyl.io/L33Z22L11/ExpressMe.svg)](http://hits.dwyl.io/L33Z22L11/ExpressMe)
+
