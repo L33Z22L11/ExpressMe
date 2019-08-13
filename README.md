@@ -18,7 +18,7 @@
 
 # 下载链接
 
-`1.9 以下` [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/1.9-.zip)
+`1.9 以下` [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/1.8.zip)
 
 `1.9-1.10.2` [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/1.9-1.10.2.zip)
 
