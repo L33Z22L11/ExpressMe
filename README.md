@@ -2,6 +2,8 @@
 
 **一个有趣的MC表情材质包**
 
+![](preview.png)
+
 -----
 
 # 使用方法
@@ -16,7 +18,7 @@
 
 # 下载链接
 
-`1.9 以下` [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/1.8.zip)
+`1.9 以下` [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/1.9-.zip)
 
 `1.9-1.10.2` [下载材质包 / Download](https://github.com/L33Z22L11/ExpressMe/archive/1.9-1.10.2.zip)
 
@@ -89,7 +91,7 @@
 
 ## 特殊表情
 
-透明渐变彩虹：`輁輂較輄輅輆輇輈載輊輋輌輍輎輏`
+透明渐变彩虹：`輀輁輂較輄輅輆輇輈載輊輋輌輍輎輏`
 
 [纸鹿君 Zhilu.fun](Zhilu.fun)：`鴅鴆鴇鴈鴉鴊`
 
