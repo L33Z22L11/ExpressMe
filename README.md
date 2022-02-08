@@ -2,6 +2,8 @@
 
 **一个有趣的MC表情材质包**
 
+项目仓库：https://github.com/L33Z22L11/ExpressMe
+
 ![](preview.png)
 
 -----
@@ -93,11 +95,4 @@
 
 透明渐变彩虹：`輀輁輂較輄輅輆輇輈載輊輋輌輍輎輏`
 
-[纸鹿君 Zhilu.fun](Zhilu.fun)：`鴅鴆鴇鴈鴉鴊`
-
-
-
-----
-
-[![HitCount](http://hits.dwyl.io/L33Z22L11/ExpressMe.svg)](http://hits.dwyl.io/L33Z22L11/ExpressMe)
-
+[纸鹿君 Zhilu.cyou](https://Zhilu.cyou)：`鴅鴆鴇鴈鴉鴊`
